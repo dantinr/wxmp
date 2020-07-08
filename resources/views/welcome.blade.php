@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    微信公众平台
                 </div>
 
                 <div class="links">
